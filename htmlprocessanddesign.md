@@ -38,7 +38,7 @@
 ## html 5 layout
 - HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of the element indicate the kind of content you will find in them.  
 
-- ![new html5 layout](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstuyhsdesign.wordpress.com%2Fhtml5%2F&psig=AOvVaw3dRt0914ZyDY0ZGVoHIT7-&ust=1587051123526000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjjg6fg6ugCFQAAAAAdAAAAABAD)
+- ![new html5 layout](https://stuyhsdesign.files.wordpress.com/2016/05/yoko-html5.png)
 
 ## Process and Design
 
