@@ -19,3 +19,17 @@ an expression evaluates into a single value
 there are two types of expressions
 -expressions that just assign a value to a variable - exp - var color = 'beige';
 -expressions that use two or more values to return a single value - exp - var area = 3*2;
+
+## Operators
+Allow programmers to create a single value from one or more values
+types of Operators
+- arithmetic
+- string 
+
+Arrays are special types of variables that store more than one piece of related information
+
+Programmers use functions, methods, and objects to organize their code.
+
+Functions consist of a series of statements that have been grouped together because they perform a specific task. 
+A method is the same as a function, except methods are created inside an object.
+
