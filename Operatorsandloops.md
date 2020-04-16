@@ -1,4 +1,4 @@
-### Operators and Loops
+# Operators and Loops
 
 **== is equal to** - this operator compares two values to see if they are the same
 
@@ -30,7 +30,7 @@ Comparison operators usually return single values of true or false. Logical oper
 
 Loops check a dondition. If it returns true, a code block will run. Then the condition will be checked again and if it still returns true, the code block will run again. It repeats until the condition returns false.
 
-Types of loops
+### Types of loops
 
 For-If you need to run code a specific number of times, use a for loop.
 
