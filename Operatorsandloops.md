@@ -23,7 +23,9 @@ In any condition, there is usually one operator and two operands. The operands a
 Comparison operators usually return single values of true or false. Logical operators allow you to compare the results of more than one comparison operator
 
 **&& logival and** - this operator test more than one conditions
+
 **|| logical or** - the operator tests at least one condition
+
 **! ligical not** - this operator takes a single Boolean value and inverts it
 
 ## Loops 
