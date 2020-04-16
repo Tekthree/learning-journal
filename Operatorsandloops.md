@@ -23,3 +23,20 @@ In any condition, there is usually one operator and two operands. The operands a
 Comparison operators usually return single values of true or false. Logical operators allow you to compare the results of more than one comparison operator
 
 **&& logival and** - this operator test more than one conditions
+**|| logical or** - the operator tests at least one condition
+**! ligical not** - this operator takes a single Boolean value and inverts it
+
+## Loops 
+
+Loops check a dondition. If it returns true, a code block will run. Then the condition will be checked again and if it still returns true, the code block will run again. It repeats until the condition returns false.
+
+Types of loops
+
+For-If you need to run code a specific number of times, use a for loop.
+
+While-If you do not know how many times the code should run, you can use a while loop
+
+Do while-The do...while loop is very similar to the while loop, but has one key difference: it will always run the statements inside the curly braces at least once, even if the condition evaluates to false.
+
+for ([initialExpression]; [condition]; [incrementExpression])
+  statement
