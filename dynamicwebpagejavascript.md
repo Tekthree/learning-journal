@@ -23,3 +23,5 @@ operators- performs some operation on single or multiple operands (data value) a
 data types- Data types basically specify what kind of data can be stored and manipulated within a program. … String, Number, and Boolean are primitive data types. Object, Array, and Function (which are all types of objects) are composite data types. Whereas Undefined and Null are special data types.
 
 variable- A variable is a way to programmatically reference a previously assigned value.
+
+![javascript](https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/Pros-and-cons-of-JavaScript.jpg)
