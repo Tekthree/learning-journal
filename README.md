@@ -44,5 +44,5 @@
 
 ## My website
 
-[ Coronavirus website ] (https://github.com/Tekthree/Htmlfirstproject1/blob/master/index.html)
+[Coronavirus website](https://github.com/Tekthree/Htmlfirstproject1/blob/master/index.html)
 
