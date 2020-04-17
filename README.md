@@ -24,7 +24,7 @@
 |   |   |   |   |   |
 
 ## Table of Contents
-- [class01 Growth Mindset](https://github.com/Tekthree/learning-journal/blob/master/LearningMarkdownGrowthMindset.md)
+- [class01 Growth Mindset](LearningMarkdownGrowthMindset.md)
 
 - [class02 The Coder's Computer](https://github.com/Tekthree/learning-journal/blob/master/TheCodersComputer.md)
 
