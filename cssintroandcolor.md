@@ -45,3 +45,20 @@ Include CSS rules within an HTML page by placing the inside a ``` <style> ``` el
 - *adjacent sibling* -  ``` h1+p {} ```
 
 - *general sibling* -  ``` h1~p {} ```
+
+## Color
+
+color in css can be specified by the following methods
+- Hexadecimal colors
+
+- RGB colors
+
+- RGBA colors
+
+- HSL colors
+
+- HSLA colors
+
+- Predefined/Cross-browser color names
+
+- With the currentcolor keyword
