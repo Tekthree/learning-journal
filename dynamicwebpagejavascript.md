@@ -3,6 +3,8 @@
 
 The code went somewhat smooth for me. I got all my code it but struggled with the file structure in the tree. I had my Js file in the wrong folder and could not get it to load. It helped me learn the importance of setting everything up properly from the very start. I feel about how far I have come in such little time. good stuff  
 
+##  JavaScript & jQuery
+
 JavaScript is a programming language that allows you to implement complex features on a website, such as dynamic elements or interactivity.
 
 JavaScript is executed once the information from the HTML and CSS in the source code has been parsed and constructed.
