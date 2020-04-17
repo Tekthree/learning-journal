@@ -26,21 +26,21 @@
 ## Table of Contents
 - [class01 Growth Mindset](LearningMarkdownGrowthMindset.md)
 
-- [class02 The Coder's Computer](https://github.com/Tekthree/learning-journal/blob/master/TheCodersComputer.md)
+- [class02 The Coder's Computer](TheCodersComputer.md)
 
-- [class03 Git Intro](https://github.com/Tekthree/learning-journal/blob/master/Gitintro.md)
+- [class03 Git Intro](Gitintro.md)
 
-- [class04 Structue web pages with HTML](https://github.com/Tekthree/learning-journal/blob/master/htmlprocessanddesign.md)
+- [class04 Structue web pages with HTML](htmlprocessanddesign.md)
 
-- [class05 Design web pages with CSS](https://github.com/Tekthree/learning-journal/blob/master/cssintroandcolor.md)
+- [class05 Design web pages with CSS](cssintroandcolor.md)
 
-- [class06 Dynamic web pages with JavaScript](https://github.com/Tekthree/learning-journal/blob/master/dynamicwebpagejavascript.md)
+- [class06 Dynamic web pages with JavaScript](dynamicwebpagejavascript.md)
 
-- [class06b Computer Architecture and Logic](https://github.com/Tekthree/learning-journal/blob/master/ComputerArchitectureAndLogic.md)
+- [class06b Computer Architecture and Logic](LearningMarkdownGrowthMindset.md)
 
-- [class07 Programming with JavaScript](https://github.com/Tekthree/learning-journal/blob/master/programmingwithjavascript.md)
+- [class07 Programming with JavaScript](programmingwithjavascript.md)
 
-- [class08 Operators and Loops](https://github.com/Tekthree/learning-journal/blob/master/Operatorsandloops.md)
+- [class08 Operators and Loops](Operatorsandloops.md)
 
 ## My website
 
